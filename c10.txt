@@ -1,11 +1,11 @@
 proxies:
-- {"name":"Pool__01","server":"143.244.42.76","type":"ss","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool__02","server":"98.142.220.37","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool__03","server":"184.170.250.149","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool__04","server":"107.174.20.134","type":"ss","port":37473,"password":"enctdKyJfSu76VqznKwTt6Ap","cipher":"aes-256-gcm"}
-- {"name":"Pool__05","server":"173.237.207.13","type":"ss","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool__06","server":"207.244.127.118","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool__07","server":"64.44.42.164","type":"ss","port":34687,"password":"txmK9WhwP6WPhP7hqSBLVxpN","cipher":"aes-256-gcm"}
-- {"name":"Pool__08","server":"66.115.147.89","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool__09","server":"66.115.182.77","type":"ss","port":34687,"password":"txmK9WhwP6WPhP7hqSBLVxpN","cipher":"aes-256-gcm"}
-- {"name":"Pool__10","server":"198.147.22.87","type":"ss","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"Pool__01","server":"185.2.100.166","type":"ss","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"Pool__02","server":"207.244.127.118","type":"ss","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"Pool__03","server":"180.149.228.27","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
+- {"name":"Pool__04","server":"207.244.127.118","type":"ss","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"Pool__05","server":"207.244.84.58","type":"ss","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"Pool__06","server":"207.244.127.118","type":"ss","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"Pool__07","server":"207.244.84.40","type":"ss","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"Pool__08","server":"84.17.35.86","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
+- {"name":"Pool__09","server":"199.36.221.85","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
+- {"name":"Pool__10","server":"199.36.221.119","type":"ss","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
